@@ -101,6 +101,10 @@ http://www.mathwords.com/a_to_z.htm
   - 8 = [Octagon](http://en.wikipedia.org/wiki/Octagon)
   - 9 = [Nonagon](http://en.wikipedia.org/wiki/Nonagon)
 
+![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side4.png)
+
+
+
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
   [9]: http://www.abluestar.com
