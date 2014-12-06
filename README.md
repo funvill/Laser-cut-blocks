@@ -5,9 +5,11 @@ For my niece this year I am planning on making a set of wooden blocks with custo
 
 I found this post from another hacker that did a similar project with geek content. 
 http://upnotnorth.net/projects/alphabet-blocks/
-I copied some of his ideas and expanded on the idea with my own 
+I copied some of his ideas for the 5th side while expanding it with my own ideas.
 
-Each side of the blocks will have a different theme.
+A lot of the vectors came from [TheNounProject](http://thenounproject.com) 
+
+Each side of the blocks will have a different theme. 36 faces. 
 
  - **Side 1** - Capital letters from A-Z and 0-9
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side1.png)
@@ -82,9 +84,9 @@ http://www.mathwords.com/a_to_z.htm
   - O = [Ohm's Law](http://en.wikipedia.org/wiki/Ohm%27s_law)
   - P = [Parallel](http://en.wikipedia.org/wiki/Parallel_%28geometry%29)
   - Q =
-  - R =
+  - R = [Rhombille_tiling](http://en.wikipedia.org/wiki/Rhombille_tiling)
   - S =
-  - T =
+  - T = [Tangent](http://en.wikipedia.org/wiki/Tangent) 
   - U = 
   - V = [Vertex](http://en.wikipedia.org/wiki/Vertex_%28geometry%29) 
   - W =
@@ -107,4 +109,4 @@ http://www.mathwords.com/a_to_z.htm
 
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
-  [9]: http://www.abluestar.com
+  [9]: http://www.abluestar.coms
