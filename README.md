@@ -25,13 +25,13 @@ Each side of the blocks will have a different theme.
   - B = [Bat](http://thenounproject.com/term/bat/77721/) 
   - C = [Cat](http://thenounproject.com/term/cat/6725/) 
   - D = [Dog](http://thenounproject.com/term/dog/8126/) 
-  - E = Emu
+  - E = [Emu](http://thenounproject.com/term/ostrich/14873/)
   - F = [Fox](http://thenounproject.com/term/fox/13097/) 
   - G = [Goat](http://thenounproject.com/term/goat/18892/) 
   - H = [Horse](http://thenounproject.com/term/horse/19192/)
   - I = 
-  - J = Jaybird
-  - K = [King Crab](http://thenounproject.com/term/crab/7099/)
+  - J = Jaybird - Thanks @Andy
+  - K = [King Crab](http://thenounproject.com/term/crab/7099/) - Thanks @Andy
   - L = [Lion](http://thenounproject.com/term/lion/68963/) 
   - M = Moth 
   - N = Newt
@@ -42,7 +42,7 @@ Each side of the blocks will have a different theme.
   - S = [Snake](http://thenounproject.com/term/snake/24037/)
   - T = [Tiger](http://thenounproject.com/term/tiger/29367/) 
   - U = 
-  - V = Vole
+  - V = Vole - Thanks @Jon
   - W = Wolf 
   - X = 
   - Y = Yak
@@ -60,6 +60,46 @@ Each side of the blocks will have a different theme.
 
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side3.png)
 
+ - **Side 4** - 
+Math, little geek kids like math, right?. 
+It is nice if the letters match up with the symbol but not required.
+http://www.mathwords.com/a_to_z.htm
+
+  - A = [Arc](http://en.wikipedia.org/wiki/Arc_%28geometry%29) 
+  - B = [Bell Curve](http://en.wikipedia.org/wiki/Normal_distribution) - Thanks @Andy
+  - C = [Cube](http://en.wikipedia.org/wiki/Cube) 
+  - D = [Diameter](http://en.wikipedia.org/wiki/Diameter)
+  - E = [Ellipse](http://en.wikipedia.org/wiki/Ellipse)
+  - F = [Fibonacci](http://en.wikipedia.org/wiki/Fibonacci) 
+  - G = [Gravity well](http://en.wikipedia.org/wiki/Gravity_well)
+  - H = [Helix](http://en.wikipedia.org/wiki/Helix) - Thanks @Andy
+  - I = [icosahedron](http://thenounproject.com/term/icosahedron/6890/)
+  - J = 
+  - K = [Koch Snowflake](http://en.wikipedia.org/wiki/Koch_snowflake)
+  - L =
+  - M = [Mobius Strip](http://en.wikipedia.org/wiki/M%C3%B6bius_strip) - Thanks @3bien
+  - N =
+  - O = [Ohm's Law](http://en.wikipedia.org/wiki/Ohm%27s_law)
+  - P = [Parallel](http://en.wikipedia.org/wiki/Parallel_%28geometry%29)
+  - Q =
+  - R =
+  - S =
+  - T =
+  - U = 
+  - V = [Vertex](http://en.wikipedia.org/wiki/Vertex_%28geometry%29) 
+  - W =
+  - X = 
+  - Y = 
+  - Z = [Zeta Function](http://en.wikipedia.org/wiki/Riemann_zeta_function) - Thanks @3bien
+  - 1 = [Circle](http://en.wikipedia.org/wiki/Circle) 
+  - 2 = 
+  - 3 = [Triangle](http://en.wikipedia.org/wiki/Triangle)
+  - 4 = [Square](http://en.wikipedia.org/wiki/Square)
+  - 5 = [Pentagon](http://en.wikipedia.org/wiki/Pentagon)
+  - 6 = [Hexagon](http://en.wikipedia.org/wiki/Hexagon)
+  - 7 = [Heptagon](http://en.wikipedia.org/wiki/Heptagon)
+  - 8 = [Octagon](http://en.wikipedia.org/wiki/Octagon)
+  - 9 = [Nonagon](http://en.wikipedia.org/wiki/Nonagon)
 
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
