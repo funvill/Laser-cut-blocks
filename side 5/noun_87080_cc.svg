@@ -1,0 +1,29 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" i:viewOrigin="10.0181 90.4946" i:rulerOrigin="0 0" i:pageBounds="0 100 100 0" width="79.634" height="81.058" viewBox="3.9817 -8.1058 79.634 109.4283" overflow="visible" enable-background="new 0 0 79.634 81.058" xml:space="preserve">
+	<metadata>
+		<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet varSetName="binding1" locked="none">
+				<variables/>
+				<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
+					</v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices/>
+			<sliceSourceBounds y="-8142" x="-8141" width="16383" height="16383" bottomLeftOrigin="true"/>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			</foreignObject>
+		<g i:extraneous="self">
+			<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.5856" d="M1.285,57.03l44.9-55.704l32.492,47.301       L57.708,80.079L1.285,57.03z"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.5856" d="M45.736,1.367L57.26,80.12"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.5856" stroke-dasharray="1.5539 1.5539" d="M1.762,56.915       l76.916-8.287"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9604" stroke-dasharray="1.5539 1.5539" d="       M76.732,48.829l1.471-0.244"/>
+				</g>
+			</g>
+		</g>
+	</switch>
+	<text x="0.0" y="95.24315" font-size="4.0529" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">Created by Pierre TORET</text><text x="0.0" y="99.29605" font-size="4.0529" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">from the Noun Project</text></svg>

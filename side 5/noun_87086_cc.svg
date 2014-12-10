@@ -1,0 +1,35 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" i:viewOrigin="9.5444 89.2188" i:rulerOrigin="0 0" i:pageBounds="0 100 100 0" width="80.333" height="78.944" viewBox="4.01665 -7.8944 80.333 106.5744" overflow="visible" enable-background="new 0 0 80.333 78.944" xml:space="preserve">
+	<metadata>
+		<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet varSetName="binding1" locked="none">
+				<variables/>
+				<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
+					</v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices/>
+			<sliceSourceBounds y="-8142" x="-8141" width="16383" height="16383" bottomLeftOrigin="true"/>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			</foreignObject>
+		<g i:extraneous="self">
+			<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M40.11,0.853l39.109,34.181L39.952,78.419"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M51.114,55.74L1.477,44.4L40.11,1.674       L51.114,55.74z"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" stroke-dasharray="1.566 1.566" d="M2.664,43.662       l30.163-17.831l7.758-24.65"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" stroke-dasharray="1.566 1.566" d="M39.952,77.678       l-7.125-51.846l45.6,9.367"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M50.401,56.232"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M40.427,76.939L51.668,55.74"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M51.036,56.232l27.708-21.198"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M1.952,44.4"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" d="M0.526,44.4l40.058,33.525"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.566" stroke-dasharray="1.566 1.566" d="M39.16,4.304       l0.792-2.137"/>
+				</g>
+			</g>
+		</g>
+	</switch>
+	<text x="0.0" y="92.7592" font-size="3.9472" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">Created by Pierre TORET</text><text x="0.0" y="96.7064" font-size="3.9472" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">from the Noun Project</text></svg>

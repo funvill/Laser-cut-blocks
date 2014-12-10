@@ -1,0 +1,30 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" i:viewOrigin="24.019 89.6401" i:rulerOrigin="0 0" i:pageBounds="0 100 100 0" width="50.713" height="79.698" viewBox="2.53565 -7.9698 50.713 107.5923" overflow="visible" enable-background="new 0 0 50.713 79.698" xml:space="preserve">
+	<metadata>
+		<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet varSetName="binding1" locked="none">
+				<variables/>
+				<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
+					</v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices/>
+			<sliceSourceBounds y="-8142" x="-8141" width="16383" height="16383" bottomLeftOrigin="true"/>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			</foreignObject>
+		<g i:extraneous="self">
+			<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.4472" d="M49.99,17.099       c0,9.043-11.015,16.375-24.6,16.375c-13.586,0-24.6-7.332-24.6-16.375S11.804,0.724,25.39,0.724       C38.975,0.724,49.99,8.055,49.99,17.099z"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.4472" stroke-linecap="round" d="M0.724,63.64v-47"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.4472" d="M49.99,63.224V17.099"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.4472" d="M49.99,62.599       c0,9.043-11.015,16.375-24.6,16.375c-13.586,0-24.6-7.332-24.6-16.375"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="1.4472" stroke-dasharray="1.4472 1.4472" d="M0.79,62.599       c0-9.043,11.014-16.375,24.6-16.375c13.585,0,24.6,7.332,24.6,16.375"/>
+				</g>
+			</g>
+		</g>
+	</switch>
+	<text x="0.0" y="93.64515" font-size="3.9849" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">Created by Pierre TORET</text><text x="0.0" y="97.63005" font-size="3.9849" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">from the Noun Project</text></svg>

@@ -7,9 +7,9 @@ I found this post from another hacker that did a similar project with geek conte
 http://upnotnorth.net/projects/alphabet-blocks/
 I copied some of his ideas for the 5th side while expanding it with my own ideas.
 
-A lot of the vectors came from [TheNounProject](http://thenounproject.com) 
+Some of the vectors came from [TheNounProject](http://thenounproject.com). 
 
-Each side of the blocks will have a different theme. 36 faces. 
+Each side of the blocks will have a different theme. 
 
  - **Side 1** - Capital letters from A-Z and 0-9
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side1.png)
@@ -105,8 +105,46 @@ http://www.mathwords.com/a_to_z.htm
 
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side4.png)
 
+**Side 5**
+Tools any type of tools from any discipline 
+
+  - A = 
+  - B = [Paint-Brush](http://thenounproject.com/term/paint-brush/8499/)
+  - C = [Clamp](http://thenounproject.com/term/clamp/43284/) 
+  - D = [Drill](http://thenounproject.com/term/drill/43657/) 
+  - E = 
+  - F = [Flashlight](http://thenounproject.com/term/flashlight/28955/) - by caba kosmotesto
+  - G = [Glue](http://thenounproject.com/term/glue/64129/)
+  - H = [Hammer](http://thenounproject.com/term/hammer/1306/) 
+  - I = 
+  - J = 
+  - K = [Knife](http://thenounproject.com/term/knife/77342/) by Trace Lexington Byrd
+  - L = [Lathe](http://thenounproject.com/term/lathe-machine/78251/) 
+  - M = [Mill](http://thenounproject.com/term/mill/78253/) 
+  - N = [Needle-And-Thread](http://thenounproject.com/term/needle-and-thread/17518/)
+  - O =
+  - P = [Pencil](http://thenounproject.com/term/pencil/64114/) 
+  - Q =
+  - R = [Ruler](http://thenounproject.com/term/ruler/55196/) - by Stefania Servidio
+  - S = [Saw](http://thenounproject.com/term/saw/1944/) - by Daniel Garrett Hickey
+  - T = [Tape-Measure](http://thenounproject.com/term/tape-measure/1948/)
+  - U = 
+  - V = [Vise](http://thenounproject.com/term/vise/6551/) 
+  - W = [Wrench](http://thenounproject.com/term/wrench/8975/)
+  - X = 
+  - Y = 
+  - Z =
+  - 1 = [Cone](http://thenounproject.com/term/icon/87382/) - by Pierre TORET
+  - 2 = [Cylinder](http://thenounproject.com/term/icon/87376/)  - by Pierre TORET
+  - 3 = [Tetrahedron](http://thenounproject.com/term/tetrahedron/87080/) - by Pierre TORET
+  - 4 = [pyramid](http://thenounproject.com/term/pyramid/87100/) - by Pierre TORET
+  - 5 = [Pentagonal-Pyramid](http://thenounproject.com/term/pentagonal-pyramid/87101/) - by Pierre TORET
+  - 6 = [Hexagonal-Pyramid](http://thenounproject.com/term/hexagonal-pyramid/87102/) - by Pierre TORET
+  - 7 = 
+  - 8 = [Octahedron](http://thenounproject.com/term/octahedron/87086/) - by Pierre TORET
+  - 9 = 
 
 
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
-  [9]: http://www.abluestar.coms
+  [9]: http://www.abluestar.com
