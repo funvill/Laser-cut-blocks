@@ -144,6 +144,7 @@ Tools any type of tools from any discipline
   - 8 = [Octahedron](http://thenounproject.com/term/octahedron/87086/) - by Pierre TORET
   - 9 = 
 
+![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side5.png)
 
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
