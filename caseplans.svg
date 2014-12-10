@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="6.5in"
+   height="4.5in"
+   viewBox=" 0 0 585 405"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="caseplans.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="1.0803419"
+     inkscape:cx="385.88107"
+     inkscape:cy="181.76604"
+     inkscape:current-layer="svg2" />
+  <!-- Front-->
+  <g
+     transform="translate(22.5, 22.5) "
+     id="g4">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="0, 0 38.25000000000001, 0 38.25000000000001, 10.62 76.50000000000001, 10.62 76.50000000000001, 0 103.50000000000001, 0 103.50000000000001, 10.62 141.75000000000003, 10.62 141.75000000000003, 0 180, 0 180, 38.25000000000001 169.38, 38.25000000000001 169.38, 76.50000000000001 180, 76.50000000000001 180, 103.50000000000001 169.38, 103.50000000000001 169.38, 141.75000000000003 180, 141.75000000000003 180.00000000000003, 180 141.75000000000003, 180 141.75000000000003, 169.38 103.50000000000001, 169.38 103.50000000000001, 180 76.50000000000001, 180 76.50000000000001, 169.38 38.25000000000001, 169.38 38.25000000000001, 180 0, 180.00000000000003 0, 141.75000000000003 10.62, 141.75000000000003 10.62, 103.50000000000001 0, 103.50000000000001 0, 76.50000000000001 10.62, 76.50000000000001 10.62, 38.25000000000001 0, 38.25000000000001 "
+       id="polygon6" />
+  </g>
+  <!-- Back-->
+  <g
+     transform="translate(202.5, 22.5) "
+     id="g8">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="0, 0 38.25000000000001, 0 38.25000000000001, 10.62 76.50000000000001, 10.62 76.50000000000001, 0 103.50000000000001, 0 103.50000000000001, 10.62 141.75000000000003, 10.62 141.75000000000003, 0 180, 0 180, 38.25000000000001 169.38, 38.25000000000001 169.38, 76.50000000000001 180, 76.50000000000001 180, 103.50000000000001 169.38, 103.50000000000001 169.38, 141.75000000000003 180, 141.75000000000003 180.00000000000003, 180 141.75000000000003, 180 141.75000000000003, 169.38 103.50000000000001, 169.38 103.50000000000001, 180 76.50000000000001, 180 76.50000000000001, 169.38 38.25000000000001, 169.38 38.25000000000001, 180 0, 180.00000000000003 0, 141.75000000000003 10.62, 141.75000000000003 10.62, 103.50000000000001 0, 103.50000000000001 0, 76.50000000000001 10.62, 76.50000000000001 10.62, 38.25000000000001 0, 38.25000000000001 "
+       id="polygon10" />
+  </g>
+  <!-- Left-->
+  <g
+     transform="translate(382.5, 22.5) "
+     id="g12">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="10.62, 0 38.25000000000001, 0 38.25000000000001, 10.62 76.50000000000001, 10.62 76.50000000000001, 0 103.50000000000001, 0 103.50000000000001, 10.62 141.75000000000003, 10.62 141.75000000000003, 0 169.38, 0 169.38, 38.25000000000001 180, 38.25000000000001 180, 76.50000000000001 169.38, 76.50000000000001 169.38, 103.50000000000001 180, 103.50000000000001 180, 141.75000000000003 169.38, 141.75000000000003 169.38000000000002, 180 141.75000000000003, 180 141.75000000000003, 169.38 103.50000000000001, 169.38 103.50000000000001, 180 76.50000000000001, 180 76.50000000000001, 169.38 38.25000000000001, 169.38 38.25000000000001, 180 10.62, 180.00000000000003 10.62, 141.75000000000003 0, 141.75000000000003 0, 103.50000000000001 10.62, 103.50000000000001 10.62, 76.50000000000001 0, 76.50000000000001 0, 38.25000000000001 10.62, 38.25000000000001 "
+       id="polygon14" />
+  </g>
+  <!-- Right-->
+  <g
+     transform="translate(382.5, 202.5) "
+     id="g16">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="10.62, 0 38.25000000000001, 0 38.25000000000001, 10.62 76.50000000000001, 10.62 76.50000000000001, 0 103.50000000000001, 0 103.50000000000001, 10.62 141.75000000000003, 10.62 141.75000000000003, 0 169.38, 0 169.38, 38.25000000000001 180, 38.25000000000001 180, 76.50000000000001 169.38, 76.50000000000001 169.38, 103.50000000000001 180, 103.50000000000001 180, 141.75000000000003 169.38, 141.75000000000003 169.38000000000002, 180 141.75000000000003, 180 141.75000000000003, 169.38 103.50000000000001, 169.38 103.50000000000001, 180 76.50000000000001, 180 76.50000000000001, 169.38 38.25000000000001, 169.38 38.25000000000001, 180 10.62, 180.00000000000003 10.62, 141.75000000000003 0, 141.75000000000003 0, 103.50000000000001 10.62, 103.50000000000001 10.62, 76.50000000000001 0, 76.50000000000001 0, 38.25000000000001 10.62, 38.25000000000001 "
+       id="polygon18" />
+  </g>
+  <!-- Top-->
+  <g
+     transform="translate(22.5, 202.5) "
+     id="g20">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="10.62, 10.62 38.25000000000001, 10.62 38.25000000000001, 0 76.50000000000001, 0 76.50000000000001, 10.62 103.50000000000001, 10.62 103.50000000000001, 0 141.75000000000003, 0 141.75000000000003, 10.62 169.38, 10.62 169.38, 38.25000000000001 180, 38.25000000000001 180, 76.50000000000001 169.38, 76.50000000000001 169.38, 103.50000000000001 180, 103.50000000000001 180, 141.75000000000003 169.38, 141.75000000000003 169.38000000000002, 169.38 141.75000000000003, 169.38 141.75000000000003, 180 103.50000000000001, 180 103.50000000000001, 169.38 76.50000000000001, 169.38 76.50000000000001, 180 38.25000000000001, 180 38.25000000000001, 169.38 10.62, 169.38000000000002 10.62, 141.75000000000003 0, 141.75000000000003 0, 103.50000000000001 10.62, 103.50000000000001 10.62, 76.50000000000001 0, 76.50000000000001 0, 38.25000000000001 10.62, 38.25000000000001 "
+       id="polygon22" />
+  </g>
+  <!-- Bottom-->
+  <g
+     transform="translate(202.5, 202.5) "
+     id="g24">
+    <polygon
+       style="stroke:#FF0000; fill:none; stroke-width:0.9"
+       points="10.62, 10.62 38.25000000000001, 10.62 38.25000000000001, 0 76.50000000000001, 0 76.50000000000001, 10.62 103.50000000000001, 10.62 103.50000000000001, 0 141.75000000000003, 0 141.75000000000003, 10.62 169.38, 10.62 169.38, 38.25000000000001 180, 38.25000000000001 180, 76.50000000000001 169.38, 76.50000000000001 169.38, 103.50000000000001 180, 103.50000000000001 180, 141.75000000000003 169.38, 141.75000000000003 169.38000000000002, 169.38 141.75000000000003, 169.38 141.75000000000003, 180 103.50000000000001, 180 103.50000000000001, 169.38 76.50000000000001, 169.38 76.50000000000001, 180 38.25000000000001, 180 38.25000000000001, 169.38 10.62, 169.38000000000002 10.62, 141.75000000000003 0, 141.75000000000003 0, 103.50000000000001 10.62, 103.50000000000001 10.62, 76.50000000000001 0, 76.50000000000001 0, 38.25000000000001 10.62, 38.25000000000001 "
+       id="polygon26" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="109.22469"
+     y="120.8307"
+     id="text3009"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011"
+       x="109.22469"
+       y="120.8307">Side 1</tspan><tspan
+       sodipodi:role="line"
+       x="109.22469"
+       y="165.8307"
+       id="tspan3082">Letters</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="294.76437"
+     y="119.39152"
+     id="text3009-1"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011-7"
+       x="294.76437"
+       y="119.39152">Side 2</tspan><tspan
+       sodipodi:role="line"
+       x="294.76437"
+       y="164.39151"
+       id="tspan3084">World</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="468.78333"
+     y="115.68898"
+     id="text3009-4"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011-0"
+       x="468.78333"
+       y="115.68898">Side 3</tspan><tspan
+       sodipodi:role="line"
+       x="468.78333"
+       y="160.68898"
+       id="tspan3122">Animals</tspan><tspan
+       sodipodi:role="line"
+       x="468.78333"
+       y="205.68898"
+       id="tspan3124" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="108.71214"
+     y="303.59247"
+     id="text3009-9"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011-4"
+       x="108.71214"
+       y="303.59247">Side 4</tspan><tspan
+       sodipodi:role="line"
+       x="108.71214"
+       y="348.59247"
+       id="tspan3126">Math</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="291.06183"
+     y="306.36938"
+     id="text3009-8"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011-8"
+       x="291.06183"
+       y="306.36938">Side 5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Sans Bold"
+     x="483.59348"
+     y="309.14627"
+     id="text3009-2"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011-45"
+       x="483.59348"
+       y="309.14627">Side 6</tspan></text>
+</svg>
