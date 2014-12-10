@@ -7,9 +7,15 @@ I found this post from another hacker that did a similar project with geek conte
 http://upnotnorth.net/projects/alphabet-blocks/
 I copied some of his ideas for the 5th side while expanding it with my own ideas.
 
-Some of the vectors came from [TheNounProject](http://thenounproject.com). 
+Some of the vectors came from [TheNounProject](http://thenounproject.com), others I made from reference images. 
 
-Each side of the blocks will have a different theme. 
+These three sites have helped a lot with finding words that fit the categories. 
+
+ - http://photographicdictionary.com/
+ - http://www.mathwords.com/a_to_z.htm
+ - I also had an enormous amount of [help from the VHS forums](https://talk.hackspace.ca/t/laser-cut-wooden-blocks-for-my-niece/808?u=funvill) 
+
+Each side of the blocks has a different theme. 
 
  - **Side 1** - Capital letters from A-Z and 0-9
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side1.png)
@@ -65,7 +71,6 @@ Each side of the blocks will have a different theme.
  - **Side 4** - 
 Math, little geek kids like math, right?. 
 It is nice if the letters match up with the symbol but not required.
-http://www.mathwords.com/a_to_z.htm
 
   - A = [Arc](http://en.wikipedia.org/wiki/Arc_%28geometry%29) 
   - B = [Bell Curve](http://en.wikipedia.org/wiki/Normal_distribution) - Thanks @Andy
@@ -108,27 +113,27 @@ http://www.mathwords.com/a_to_z.htm
 **Side 5**
 Tools any type of tools from any discipline 
 
-  - A = 
+  - A = [Axe](http://thenounproject.com/term/axe/18150/) - by Jake Dunham
   - B = [Paint-Brush](http://thenounproject.com/term/paint-brush/8499/)
   - C = [Clamp](http://thenounproject.com/term/clamp/43284/) 
   - D = [Drill](http://thenounproject.com/term/drill/43657/) 
-  - E = 
+  - E = [Ear Proection](http://thenounproject.com/term/earmuffs/9376/) - by James Keuning
   - F = [Flashlight](http://thenounproject.com/term/flashlight/28955/) - by caba kosmotesto
   - G = [Glue](http://thenounproject.com/term/glue/64129/)
   - H = [Hammer](http://thenounproject.com/term/hammer/1306/) 
-  - I = 
-  - J = 
+  - I = [Soldering iron](http://thenounproject.com/term/tools/14905/) - by Juan Pablo Bravo
+  - J = Jigsaw 
   - K = [Knife](http://thenounproject.com/term/knife/77342/) by Trace Lexington Byrd
   - L = [Lathe](http://thenounproject.com/term/lathe-machine/78251/) 
   - M = [Mill](http://thenounproject.com/term/mill/78253/) 
   - N = [Needle-And-Thread](http://thenounproject.com/term/needle-and-thread/17518/)
   - O =
   - P = [Pencil](http://thenounproject.com/term/pencil/64114/) 
-  - Q =
+  - Q = [Quill](http://thenounproject.com/term/quill/17013/) - by Juan Pablo Bravo
   - R = [Ruler](http://thenounproject.com/term/ruler/55196/) - by Stefania Servidio
   - S = [Saw](http://thenounproject.com/term/saw/1944/) - by Daniel Garrett Hickey
   - T = [Tape-Measure](http://thenounproject.com/term/tape-measure/1948/)
-  - U = 
+  - U = [Utility knife](http://thenounproject.com/term/utility-knife/23396/) -  by Jordan Rude
   - V = [Vise](http://thenounproject.com/term/vise/6551/) 
   - W = [Wrench](http://thenounproject.com/term/wrench/8975/)
   - X = 
