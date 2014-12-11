@@ -37,8 +37,8 @@ Each side of the blocks has a different theme.
   - F = [Fox](http://thenounproject.com/term/fox/13097/) 
   - G = [Goat](http://thenounproject.com/term/goat/18892/) 
   - H = [Horse](http://thenounproject.com/term/horse/19192/)
-  - I = 
-  - J = Jaybird - Thanks @Andy
+  - I = Ibex 
+  - J = [Joey](http://thenounproject.com/term/kangaroo/1692/) - by Simon Child
   - K = [King Crab](http://thenounproject.com/term/crab/7099/) - Thanks @Andy
   - L = [Lion](http://thenounproject.com/term/lion/68963/) 
   - M = Moth 
@@ -47,10 +47,10 @@ Each side of the blocks has a different theme.
   - P = [Pig](http://thenounproject.com/term/pig/5271/) 
   - Q = [Owl](http://thenounproject.com/term/owl/64303/) 
   - R = [Rat](http://thenounproject.com/term/rat/85851/)
-  - S = [Snake](http://thenounproject.com/term/snake/24037/)
+  - S = [Salmon](http://thenounproject.com/term/fish/11742/) - by James Keuning
   - T = [Tiger](http://thenounproject.com/term/tiger/29367/) 
-  - U = 
-  - V = Vole - Thanks @Jon
+  - U = Urchin
+  - V = [Viper](http://thenounproject.com/term/snake/24037/)
   - W = Wolf 
   - X = 
   - Y = Yak
