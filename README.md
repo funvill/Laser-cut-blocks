@@ -52,7 +52,7 @@ Each side of the blocks has a different theme.
   - U = Urchin
   - V = [Viper](http://thenounproject.com/term/snake/24037/)
   - W = Wolf 
-  - X = 
+  - X = [Xerus](http://thenounproject.com/term/squirrel/85847/) - by Jake Dunham
   - Y = Yak
   - Z = [Zebra](http://thenounproject.com/term/zebra/10753/) 
   - 0 = Child's name - (Note there is no roman numeral for Zero)
