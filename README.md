@@ -98,6 +98,7 @@ It is nice if the letters match up with the symbol but not required.
   - X = XOR Gate 
   - Y = Y Axis
   - Z = [Zeta Function](http://en.wikipedia.org/wiki/Riemann_zeta_function) - Thanks @3bien
+  - 0 = Childs Birthday 
   - 1 = [Circle](http://en.wikipedia.org/wiki/Circle) 
   - 2 = 
   - 3 = [Triangle](http://en.wikipedia.org/wiki/Triangle)
@@ -138,6 +139,7 @@ Tools any type of tools from any discipline
   - W = [Wrench](http://thenounproject.com/term/wrench/8975/)
   - X = 
   - Y = 
+  - 0 = Childs ???? 
   - Z = [Z80](http://thenounproject.com/term/microchip/48304/) - by David Waschbüsch
   - 1 = [Cone](http://thenounproject.com/term/icon/87382/) - by Pierre TORET
   - 2 = [Cylinder](http://thenounproject.com/term/icon/87376/)  - by Pierre TORET
