@@ -55,7 +55,7 @@ Each side of the blocks has a different theme.
   - X = [Xerus](http://thenounproject.com/term/squirrel/85847/) by Jake Dunham
   - Y = Yak
   - Z = [Zebra](http://thenounproject.com/term/zebra/10753/) 
-  - 0 = Child's name - (Note there is no roman numeral for Zero)
+  - 0 = Child's name
   - 1 = I 
   - 2 = II 
   - 3 = III 
@@ -134,12 +134,12 @@ Tools any type of tools from any discipline
   - R = [Ruler](http://thenounproject.com/term/ruler/55196/) by Stefania Servidio
   - S = [Saw](http://thenounproject.com/term/saw/1944/) by Daniel Garrett Hickey
   - T = [Tape-Measure](http://thenounproject.com/term/tape-measure/1948/)
-  - U = 
+  - U = [Ukulele](http://thenounproject.com/term/ukulele/23305/) by Bernardo Carvalho
   - V = [Vise](http://thenounproject.com/term/vise/6551/) 
   - W = [Wrench](http://thenounproject.com/term/wrench/8975/)
   - X = [Xacto knife](http://thenounproject.com/term/utility-knife/23396/) by Jordan Rude
   - Y = [YAG](http://thenounproject.com/term/laser-cutter/18232/) by Arthur Schmitt
-  - 0 = Childs ???? 
+  - 0 = Childs Astrological sign 
   - Z = [Z80](http://thenounproject.com/term/microchip/48304/) by David Waschbüsch
   - 1 = [Cone](http://thenounproject.com/term/icon/87382/) by Pierre TORET
   - 2 = [Cylinder](http://thenounproject.com/term/icon/87376/) by Pierre TORET
@@ -152,6 +152,48 @@ Tools any type of tools from any discipline
   - 9 = Nonagonal Pyramid
 
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side5.png)
+
+**Side 6** 
+
+  - A =
+  - B = [Boba-Fett](http://thenounproject.com/term/boba-fett/40307/) by ARudmann
+  - C = [Cthulhu](http://en.wikipedia.org/wiki/Cthulhu)
+  - D = [Darth-Vader](http://thenounproject.com/term/darth-vader/65913/) by Rohith M S
+  - E = [Enterprise-Ncc](http://thenounproject.com/term/enterprise-ncc/57690/) by Mark Hammar
+  - F =
+  - G = [Github](https://github.com/logos)
+  - H = [Half Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29)
+  - I = [Space-Invader](http://thenounproject.com/term/space-invader/87949/) by Melvin Salas
+  - J = 
+  - K =
+  - L = 
+  - M = [Millennium-Falcon](http://thenounproject.com/term/millennium-falcon/82510/) by Steve Morris
+  - N = [NES Controller](http://thenounproject.com/term/video-game-controller/56432/) by Matt Caisley
+  - O =
+  - P =
+  - Q = [Question block](http://www.mariowiki.com/?_Block)
+  - R = 
+  - S = [Spock](http://thenounproject.com/term/vulcan-salute/50439/) by Alexandr Cherkinsky
+  - T = [Triforce](http://thenounproject.com/term/triforce/55159/) by Kervin Markle
+  - U = [Unicorn](http://thenounproject.com/term/unicorn/9584/) by James Keuning
+  - V = 
+  - W =
+  - X = [X-Wing](http://thenounproject.com/term/x-wing/42411/) by Jonas Nullens
+  - Y = 
+  - Z = [Zoidberg](http://thenounproject.com/term/alien/40871/) by Iain Hector
+  - 0 = Child's name
+  - 1 = 
+  - 2 = 
+  - 3 = 
+  - 4 = 
+  - 5 = 
+  - 6 = 
+  - 7 = 
+  - 8 = 
+  - 9 = 
+
+![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side6.png)
+
 
   [7]: https://github.com/funvill
   [8]: https://twitter.com/funvill
