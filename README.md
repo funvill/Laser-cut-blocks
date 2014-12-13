@@ -139,7 +139,7 @@ Tools any type of tools from any discipline
   - W = [Wrench](http://thenounproject.com/term/wrench/8975/)
   - X = [Xacto knife](http://thenounproject.com/term/utility-knife/23396/) by Jordan Rude
   - Y = [YAG](http://thenounproject.com/term/laser-cutter/18232/) by Arthur Schmitt
-  - 0 = Childs Astrological sign 
+  - 0 =  
   - Z = [Z80](http://thenounproject.com/term/microchip/48304/) by David Waschbüsch
   - 1 = [Cone](http://thenounproject.com/term/icon/87382/) by Pierre TORET
   - 2 = [Cylinder](http://thenounproject.com/term/icon/87376/) by Pierre TORET
@@ -155,42 +155,42 @@ Tools any type of tools from any discipline
 
 **Side 6** 
 
-  - A =
+  - A = [Adventure time](http://en.wikipedia.org/wiki/Adventure_Time) 
   - B = [Boba-Fett](http://thenounproject.com/term/boba-fett/40307/) by ARudmann
   - C = [Cthulhu](http://en.wikipedia.org/wiki/Cthulhu)
   - D = [Darth-Vader](http://thenounproject.com/term/darth-vader/65913/) by Rohith M S
   - E = [Enterprise-Ncc](http://thenounproject.com/term/enterprise-ncc/57690/) by Mark Hammar
-  - F =
+  - F = [Fairy](http://en.wikipedia.org/wiki/Fairy) 
   - G = [Github](https://github.com/logos)
   - H = [Half Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29)
   - I = [Space-Invader](http://thenounproject.com/term/space-invader/87949/) by Melvin Salas
-  - J = 
-  - K =
-  - L = 
+  - J = [Joystick](http://thenounproject.com/term/joystick/21123/) by Luboš Volkov
+  - K = [Koopa](http://en.wikipedia.org/wiki/Koopa_Troopa) 
+  - L = [Lord of the rings](http://thenounproject.com/term/ring/18111/) by Drue McCurdy
   - M = [Millennium-Falcon](http://thenounproject.com/term/millennium-falcon/82510/) by Steve Morris
   - N = [NES Controller](http://thenounproject.com/term/video-game-controller/56432/) by Matt Caisley
-  - O =
-  - P =
+  - O = [Optimus Prime](http://en.wikipedia.org/wiki/Optimus_Prime)
+  - P = [Planet Express](http://en.wikipedia.org/wiki/Planet_Express_Ship) 
   - Q = [Question block](http://www.mariowiki.com/?_Block)
-  - R = 
-  - S = [Spock](http://thenounproject.com/term/vulcan-salute/50439/) by Alexandr Cherkinsky
+  - R = [R2D2](http://thenounproject.com/term/r2d2/81564/) by Jake Dunham
+  - S = [Short Circuit](http://en.wikipedia.org/wiki/Short_Circuit)
   - T = [Triforce](http://thenounproject.com/term/triforce/55159/) by Kervin Markle
   - U = [Unicorn](http://thenounproject.com/term/unicorn/9584/) by James Keuning
-  - V = 
-  - W =
+  - V = [Vulcan](http://en.wikipedia.org/wiki/Vulcan_%28Star_Trek%29)
+  - W = [Wizard](http://thenounproject.com/term/gandalf/36395/) by Gustavo Enrrique Laguna Fernandez
   - X = [X-Wing](http://thenounproject.com/term/x-wing/42411/) by Jonas Nullens
-  - Y = 
+  - Y = [Yoshi](http://en.wikipedia.org/wiki/Yoshi)
   - Z = [Zoidberg](http://thenounproject.com/term/alien/40871/) by Iain Hector
-  - 0 = Child's name
-  - 1 = 
-  - 2 = 
-  - 3 = 
-  - 4 = 
-  - 5 = 
-  - 6 = 
-  - 7 = 
-  - 8 = 
-  - 9 = 
+  - 0 = 
+  - 1 = 1 Dot 
+  - 2 = 2 Dots
+  - 3 = 3 Dots
+  - 4 = 4 Dots
+  - 5 = 5 Dots
+  - 6 = 6 Dots
+  - 7 = 7 Dots 
+  - 8 = 8 Dots 
+  - 9 = 9 Dots 
 
 ![enter image description here](https://raw.githubusercontent.com/funvill/Laser-cut-blocks/master/side6.png)
 
